@@ -21,7 +21,7 @@ const App = () => {
       <div className="bg-white shadow-lg rounded-3xl p-16">
         {" "}
         <h1 className="principal-font text-3xl font-bold text-center text-gray-900 mb-6">
-          TODO LIST
+          TODO LIST APP
         </h1>
         <div className="mb-4 flex">
           <input
